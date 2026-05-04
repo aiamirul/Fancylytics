@@ -1,7 +1,7 @@
 # Analysis Tools
 ## AI vs Humans
 Simualtion Analysis
-[DEMO Simualtion Analysis](https://rawcdn.githack.com/aiamirul/Fancylytics/943ea7fabab52716d13216bb6cf41efe98d9ff64/SimulationAnalysis/index.html)
+[DEMO Simualtion Analysis](https://rawcdn.githack.com/aiamirul/Fancylytics/35d0872f02e251b07f779c33b9b6962ade471d92/SimulationAnalysis/index.html)
 ![](https://i.imgur.com/X0TIPhi.pnghttps://i.imgur.com/X0TIPhi.png)
 Live Perfomance Analysis
 [PerfomanceAnalysis](https://rawcdn.githack.com/aiamirul/Fancylytics/e5e41f68a7135bc176ad1e2d1f8aef9d3893f274/PerformanceAnalysis/index.html)
