@@ -10,7 +10,7 @@ DAily Monitor
 ![](https://i.imgur.com/9IN24EH.png)
 
 ## Object Tracking Data with Orientation
-https://rawcdn.githack.com/aiamirul/Fancylytics/52215ecde4a6641234fb9efa55815b6ebea18b81/ObjectTrackingTool/index.html
+[ObjectTrackingTool](https://rawcdn.githack.com/aiamirul/Fancylytics/c18e3424720f4b5df066b72723c72f0c06d9eaa9/ObjectTrackingTool/index.html)
 ![alt text](https://i.imgur.com/vp4qN2o.png)
 
 ## OCR Data Collection
