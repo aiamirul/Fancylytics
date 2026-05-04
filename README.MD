@@ -19,6 +19,10 @@ DAily Monitor
 
 ## OCR Data Collection
 [DEMO OCR Tool](https://rawcdn.githack.com/aiamirul/Fancylytics/e5e12e6ff46d816d8640af460f93c3bffb1c88ea/OCRTool/index.html)
+SAMPLE OUTPUT (can be imported to resume labeling)
+download json file and import project at DEMO OCR Tool to interact
+https://github.com/aiamirul/Fancylytics/blob/main/OCRTool/labels_1776305404886.json
+
 ![alt text](https://i.imgur.com/1AkssXW.png)
 ### Augmentation Preview & Export
 ![alt text](https://i.imgur.com/v2Gr1Dv.png)
