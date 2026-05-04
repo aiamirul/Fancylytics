@@ -1,7 +1,9 @@
 # Analysis Tools
 ## AI vs Humans
+Mass Analysis
 ![alt text](https://i.imgur.com/7r6YtGA.png)
-
+DAily Monitor
+![](https://i.imgur.com/NK7ftNq.png)
 # Data Collection Tools
 
 ## Object Tracking Data with Orientation
