@@ -10,7 +10,7 @@ DAily Monitor
 ![](https://i.imgur.com/9IN24EH.png)
 
 ## Object Tracking Data with Orientation
-![alt text](https://i.imgur.com/PMU10Gv.png)
+![alt text](https://i.imgur.com/vp4qN2o.png)
 
 ## OCR Data Collection
 ![alt text](https://i.imgur.com/1AkssXW.png)
