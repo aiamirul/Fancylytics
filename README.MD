@@ -1,7 +1,7 @@
 # Analysis Tools
 ## AI vs Humans
 Perfomance Analysis
-[PerfomanceAnalysis](https://rawcdn.githack.com/aiamirul/Fancylytics/49adcfdb39b942197646859bf0b54279a1027473/PerformanceAnalysis/index.html)
+[PerfomanceAnalysis](https://rawcdn.githack.com/aiamirul/Fancylytics/3db6249b5ff2a67ea18471009e5be2fe050d23f4/PerformanceAnalysis/index.html)
 ![alt text](https://i.imgur.com/7r6YtGA.png)
 DAily Monitor
 ![](https://i.imgur.com/NK7ftNq.png)
