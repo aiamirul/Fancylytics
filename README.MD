@@ -15,7 +15,7 @@ DAily Monitor
 ![alt text](https://i.imgur.com/vp4qN2o.png)
 
 ## OCR Data Collection
-[Demo OCR Tool](https://rawcdn.githack.com/aiamirul/Fancylytics/49adcfdb39b942197646859bf0b54279a1027473/OCRTool/index.html)
+[Demo OCR Tool](https://rawcdn.githack.com/aiamirul/Fancylytics/8995ff5a14b79325a20cf2611e133e7ffd2261f4/OCRTool/index.html)
 ![alt text](https://i.imgur.com/1AkssXW.png)
 ### Augmentation Preview & Export
 ![alt text](https://i.imgur.com/v2Gr1Dv.png)
