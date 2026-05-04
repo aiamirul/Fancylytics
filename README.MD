@@ -1,6 +1,7 @@
 # Analysis Tools
 ## AI vs Humans
-Mass Analysis
+Perfomance Analysis
+[PerfomanceAnalysis](https://rawcdn.githack.com/aiamirul/Fancylytics/49adcfdb39b942197646859bf0b54279a1027473/PerformanceAnalysis/index.html)
 ![alt text](https://i.imgur.com/7r6YtGA.png)
 DAily Monitor
 ![](https://i.imgur.com/NK7ftNq.png)
@@ -14,6 +15,7 @@ DAily Monitor
 ![alt text](https://i.imgur.com/vp4qN2o.png)
 
 ## OCR Data Collection
+[Demo OCR Tool](https://rawcdn.githack.com/aiamirul/Fancylytics/49adcfdb39b942197646859bf0b54279a1027473/OCRTool/index.html)
 ![alt text](https://i.imgur.com/1AkssXW.png)
 ### Augmentation Preview & Export
 ![alt text](https://i.imgur.com/v2Gr1Dv.png)
