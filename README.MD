@@ -6,6 +6,9 @@ DAily Monitor
 ![](https://i.imgur.com/NK7ftNq.png)
 # Data Collection Tools
 
+## Team Work Distribution and Honor System
+![](https://i.imgur.com/9IN24EH.png)
+
 ## Object Tracking Data with Orientation
 ![alt text](https://i.imgur.com/PMU10Gv.png)
 
